@@ -11,7 +11,7 @@ public class First_down {
 	
 		System.out.println("Hello,world" + "  And goodbye ");
 		Message.showText();
-		System.out.println("Type some shit");
+		System.out.println("Type some casual shit");
 		
 		
 			InputStreamReader converter = new InputStreamReader(System.in);
