@@ -1,3 +1,0 @@
-It's hard to understand how git works.
-Never save file without name.
-
